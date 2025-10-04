@@ -4,7 +4,7 @@
 
 ---
 
-## 🧬 About Me
+##  About Me
 
 From my early days in Computer Engineering, I’ve been fascinated by the power of algorithms to illuminate hidden patterns within complex biomedical data. My journey has spanned from independent exploratory projects—like breast cancer detection from mammography, lung cancer prediction from CT scans, retinal disease diagnosis, and cardiovascular risk prediction—to formal research contributions, including the release of globally balanced leukemia gene-expression datasets and the authorship of multiple peer-reviewed preprints and technical books.
 
@@ -12,7 +12,7 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ---
 
-## 💡 Research Interests
+##  Research Interests
 
 - Deep learning for medical imaging (MRI, fMRI, PET, EEG)
 - Genomics and precision medicine
@@ -32,7 +32,7 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 **Programming:** Python (Advanced), Java (Intermediate)  
 **Machine/Deep Learning:** TensorFlow, Keras, Scikit-learn  
@@ -43,7 +43,7 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ---
 
-## 📚 Publications & Books
+##  Publications & Books
 
 - 5+ peer-reviewed preprints
 - 4 technical books (including the world’s first volumes on Vision Transformers and 3D Vision Transformers in medical imaging)
@@ -51,7 +51,7 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 - [GitHub](https://github.com/AlirezaRahi)
 - [Google Scholar](https://scholar.google.com/citations?user=I2ASqS0AAAAJ&hl=en)
@@ -59,7 +59,7 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ---
 
-## 🎯 Fun Facts & Interests
+##  Fun Facts & Interests
 
 - Passionate about the intersection of medicine, neuroscience, and AI—especially brain research
 - Enjoy writing technical books/tutorials to mentor students and young researchers
@@ -68,7 +68,7 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ---
 
-## 🤝 Collaboration & Philosophy
+##  Collaboration & Philosophy
 
 - Strong believer in open science and reproducibility
 - Committed to structured project planning with milestones—balanced by creative innovation
