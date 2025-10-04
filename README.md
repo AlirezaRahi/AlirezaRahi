@@ -22,7 +22,7 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ---
 
-## 🏆 Highlighted Projects
+##  Highlighted Projects
 
 - [Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine](https://github.com/AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine)
 - [Stacked-Deep-Learning-for-Subtype-Classification-in-Acute-Myeloid-Leukemia](https://github.com/AlirezaRahi/Stacked-Deep-Learning-for-Subtype-Classification-in-Acute-Myeloid-Leukemia)
