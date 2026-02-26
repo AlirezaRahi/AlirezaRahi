@@ -1,53 +1,106 @@
 # 👋 Hi, I’m Alireza Rahi
 
-**Medical AI Researcher | Deep Learning for Precision Medicine | Open Science Advocate**
+**AI Security & Medical Imaging Researcher | Deep Learning Architect | Cryptographic Systems Engineer**
 
 ---
 
 ##  About Me
 
-From my early days in Computer Engineering, I’ve been fascinated by the power of algorithms to illuminate hidden patterns within complex biomedical data. My journey has spanned from independent exploratory projects—like breast cancer detection from mammography, lung cancer prediction from CT scans, retinal disease diagnosis, and cardiovascular risk prediction—to formal research contributions, including the release of globally balanced leukemia gene-expression datasets and the authorship of multiple peer-reviewed preprints and technical books.
+I am a multidisciplinary researcher and engineer at the intersection of Trustworthy AI, Cybersecurity, and Precision Medicine. My work spans three critical domains: developing interpretable deep learning models for medical imaging and genomics, engineering AI-powered solutions for network intrusion detection, and implementing secure, production-grade systems using applied cryptography in Rust.
 
-I specialize in developing innovative deep learning solutions for medical imaging, with a focus on making AI interpretable and clinically relevant. My current doctoral research centers on brain tumor detection and segmentation using advanced architectures such as U-Net and Vision Transformers. I’m deeply committed to collaborative, open, and reproducible science that can directly support clinical decision-making and improve patient outcomes.
+My journey began with a foundation in Computer Engineering and has evolved through independent research that bridges the gap between cutting-edge AI and real-world, safety-critical applications. I've contributed everything from benchmark medical datasets (the first globally balanced ALL/AML gene expression resources) and technical books on Vision Transformers to offensive security tools and secure authentication frameworks.
+
+My overarching philosophy is simple: intelligent systems must be both powerful and trustworthy. Whether I'm segmenting brain tumors with Vision Transformers or building a secure Actix-web backend in Rust, my goal is to create solutions that are innovative, robust, and ready for deployment in high-stakes environments.
 
 ---
 
 ##  Research Interests
 
-- Deep learning for medical imaging (MRI, fMRI, PET, EEG)
-- Genomics and precision medicine
-- Explainable and interpretable AI models for healthcare
-- Multi-modal data integration for diagnosis and prognosis
-- Decision-support systems for clinicians
+Medical AI: Deep Learning for Medical Imaging (MRI, fMRI, PET, CT), Genomic AI & Precision Oncology, Explainable AI (XAI) for Clinical Decision Support, Multimodal Data Fusion.
+
+AI for Cybersecurity: Deep Learning for Intrusion Detection Systems (IDS), Anomaly Detection in Network Traffic, Malware Classification.
+
+Secure Systems & Cryptography: Applied Cryptography in Rust, Secure System Architecture, Authentication/Authorization Protocols, Memory-safe Systems Programming.
 
 ---
 
 ##  Highlighted Projects
 
-- [Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine](https://github.com/AlirezaRahi/Genomic-Classification-of-Acute-Lymphoblastic-Leukemia-Using-AI-Towards-Personalized-Medicine)
-- [Stacked-Deep-Learning-for-Subtype-Classification-in-Acute-Myeloid-Leukemia](https://github.com/AlirezaRahi/Stacked-Deep-Learning-for-Subtype-Classification-in-Acute-Myeloid-Leukemia)
-- [Cardiac-Diagnosis](https://github.com/AlirezaRahi/Cardiac-Diagnosis)
-- [Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI](https://github.com/AlirezaRahi/Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI)
-- [A-Hybrid-Deep-Learning-Ensemble-for-Accurate-Skin-Cancer-Classification](https://github.com/AlirezaRahi/A-Hybrid-Deep-Learning-Ensemble-for-Accurate-Skin-Cancer-Classification)
+Medical Imaging & Genomics
+
+Genomic Classification of ALL Using AI: Towards personalized medicine for leukemia.
+
+AML Subtype Classification: Stacked deep learning for Acute Myeloid Leukemia subtyping.
+
+Brain Metastasis Detection: Feature-based ML on clinical MRI data.
+
+Skin Cancer Classification: Hybrid deep learning ensemble for dermatological analysis.
+
+Cardiac Diagnosis from ECG: Deep learning for electrocardiogram analysis.
+
+Cybersecurity & AI
+
+Network Intrusion Detection: CNN-BiLSTM architecture for real-time multi-class attack detection. [Private/In-Progress]
+
+Malware Classification: CNN-based architectures for binary analysis.
+
+Secure User Management (Rust): Implementation of a secure authentication system using Argon2, Ed25519, and best cryptographic practices. [GitHub]
+
+Security Engineering & Tooling
+
+Web Vulnerability Scanner: A multi-threaded tool for detecting common web vulnerabilities (OWASP Top 10).
+
+Multi-threaded Port Scanner with OS Detection: High-performance network mapping tool.
+
+Network Security Tools Suite: A collection of utilities for network assessment.
 
 ---
 
 ##  Skills & Tools
 
-**Programming:** Python (Advanced), Java (Intermediate)  
-**Machine/Deep Learning:** TensorFlow, Keras, Scikit-learn  
-**Image Processing:** OpenCV, Scikit-image  
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
-**Medical Imaging:** DICOM, NIfTI  
-**Tools & Platforms:** Git, Linux
+
+## Domain	Skills & Tools
+## AI & Machine Learning	Frameworks: TensorFlow, Keras, Scikit-learn. 
+## Architectures: CNNs, U-Net, Vision Transformers (2D/3D), Hybrid Models, Autoencoders. XAI: Grad-CAM, Feature Attribution.
+## Cybersecurity	Network Security: Intrusion Detection (ML/DL), 
+##            Penetration Testing Concepts (OSCP-oriented, CEH), Burp Suite, OWASP. Malware Analysis: CNN-based Classification.
+# Cryptography (Rust)	Algorithms: AES, RSA, ECC, SHA-2/3, Ed25519, Argon2, bcrypt. 
+##            Concepts: Symmetric/Asymmetric Encryption, Digital Signatures, Secure Key Management, TLS Fundamentals.
+# Backend & Systems (Rust)	Frameworks: Actix Web.
+##           Concepts: RESTful API Design, Async Programming (Tokio), Secure Architecture, Memory Safety.
+# Medical Data & Imaging	Formats: DICOM, NIfTI.
+##            Modalities: MRI, fMRI, PET, CT, X-ray, ECG. Libraries: Scikit-image, OpenCV.
+# Data Science & Tools	Libraries: Pandas, NumPy, Matplotlib, Seaborn. 
+##            Tools: Git, Linux (Advanced), Bash, VS Code.
+
 
 ---
 
 ##  Publications & Books
 
-- 5+ peer-reviewed preprints
-- 4 technical books (including the world’s first volumes on Vision Transformers and 3D Vision Transformers in medical imaging)
-- Publications available on [Google Scholar](https://scholar.google.com/citations?user=I2ASqS0AAAAJ&hl=en)
+I am committed to open science, with all code and preprints publicly available.
+
+Peer-Reviewed Preprints: 10+ preprints on medical AI (cardiac MRI, brain tumors, leukemia genomics, ECG analysis) available on medRxiv and TechRxiv.
+
+Technical Books (First of Their Kind):
+
+Mastering Grad-CAM with TensorFlow: From Theory to Medical Applications (Zenodo, 2025)
+
+3D ViT in Medical Imaging: From Theory to TensorFlow Practice (Zenodo, 2025) – World's first guide on 3D Vision Transformers for medical imaging.
+
+Vision Transformers in Medical Imaging: Foundations and Applications (Zenodo, 2025) – World's first dedicated guide on ViTs for medicine.
+
+Comprehensive Guide to U-Net for Medical Imaging (Zenodo, 2025)
+
+Datasets:
+
+Global Balanced Gene Expression Dataset for ALL Subtypes (Zenodo, 2025)
+
+Global Balanced Gene Expression Dataset for AML Subtypes (Zenodo, 2025)
+
+Full list on: Google Scholar
+
+
 
 ---
 
@@ -61,19 +114,39 @@ I specialize in developing innovative deep learning solutions for medical imagin
 
 ##  Fun Facts & Interests
 
-- Passionate about the intersection of medicine, neuroscience, and AI—especially brain research
-- Enjoy writing technical books/tutorials to mentor students and young researchers
-- Interested in how human cognition and psychology can inspire next-gen AI
-- Love hiking in nature and playing chess for relaxation and inspiration
+First-of-their-Kind Contributions: Authored the world's first technical monographs on Vision Transformers, 3D Vision Transformers, and Grad-CAM specifically for medical imaging applications.
+
+Benchmark Datasets: Created and published the first globally balanced gene expression datasets encompassing all subtypes of Acute Lymphoblastic Leukemia (ALL) and Acute Myeloid Leukemia (AML) .
+
+Innovative Model Design: Developed a novel compact deep learning model ("mini-cardiologist") for end-to-end automated ECG analysis and diagnosis.
+
+Security Tooling: Built and open-sourced a suite of practical network security assessment tools.
+
+---
+## 🧩 Beyond the Code
+ Neuroscience Enthusiast: Deeply fascinated by the brain—both as an organ to heal with AI and as an inspiration for new algorithms.
+
+ Science Communicator: I write detailed technical books and tutorials to mentor the next generation of AI researchers.
+
+ Nature & Chess: When I'm not coding or researching, you can find me hiking in nature or playing a thoughtful game of chess.
+
+
 
 ---
 
-##  Collaboration & Philosophy
+##  Open to Collaboration
 
-- Strong believer in open science and reproducibility
-- Committed to structured project planning with milestones—balanced by creative innovation
-- Dedicated to building AI tools that clinicians can trust and use in real-world healthcare
+I believe that the most impactful work happens at the intersection of disciplines. I'm always open to collaborating on projects related to:
+
+Trustworthy AI in Medicine
+
+AI-driven Cybersecurity
+
+Secure Systems Engineering in Rust
+
+Open-source Scientific Software
+
+"Let's build intelligent, secure, and transparent systems that make a difference."
 
 ---
 
-_“Let’s build transparent, impactful AI for medicine—together.”_
