@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alireza Rahi
 
-**AI Security & Medical Imaging Researcher | Deep Learning Architect | Cryptographic Systems Engineer**
+## AI Security & Medical Imaging Researcher | Deep Learning Architect | Cryptographic Systems Engineer**
 
 ---
 
