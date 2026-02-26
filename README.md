@@ -6,11 +6,11 @@
 
 # About Me
 
-### I am a multidisciplinary researcher and engineer at the intersection of Trustworthy AI, Cybersecurity, and Precision Medicine. My work spans three critical domains: developing interpretable deep learning models for medical imaging and genomics, engineering AI-powered solutions for network intrusion detection, and implementing secure, production-grade systems using applied cryptography in Rust.
+##### I am a multidisciplinary researcher and engineer at the intersection of Trustworthy AI, Cybersecurity, and Precision Medicine. My work spans three critical domains: developing interpretable deep learning models for medical imaging and genomics, engineering AI-powered solutions for network intrusion detection, and implementing secure, production-grade systems using applied cryptography in Rust.
 
-### My journey began with a foundation in Computer Engineering and has evolved through independent research that bridges the gap between cutting-edge AI and real-world, safety-critical applications. I've contributed everything from benchmark medical datasets (the first globally balanced ALL/AML gene expression resources) and technical books on Vision Transformers to offensive security tools and secure authentication frameworks.
+##### My journey began with a foundation in Computer Engineering and has evolved through independent research that bridges the gap between cutting-edge AI and real-world, safety-critical applications. I've contributed everything from benchmark medical datasets (the first globally balanced ALL/AML gene expression resources) and technical books on Vision Transformers to offensive security tools and secure authentication frameworks.
 
-### My overarching philosophy is simple: intelligent systems must be both powerful and trustworthy. Whether I'm segmenting brain tumors with Vision Transformers or building a secure Actix-web backend in Rust, my goal is to create solutions that are innovative, robust, and ready for deployment in high-stakes environments.
+##### My overarching philosophy is simple: intelligent systems must be both powerful and trustworthy. Whether I'm segmenting brain tumors with Vision Transformers or building a secure Actix-web backend in Rust, my goal is to create solutions that are innovative, robust, and ready for deployment in high-stakes environments.
 
 ---
 
